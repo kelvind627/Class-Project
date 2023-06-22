@@ -89,6 +89,19 @@
 + *Click create distribution and copy the url*
 + *Paste your url on your browser and test if it's working*
 
+![20230622_115418](https://github.com/kelvind627/Class-Project/assets/136044631/6b48895d-33bb-42bb-a933-5ff6f1f372da)
+
+9.**Creating your custom domain name**
++ *Finally go back to route 53 and click on hosted zone,
++ *Click on create record*
++ *On the record name, write in subdomain*
++ *At the record type, select "A-Route trafic to IPV4 address and some AWS resources"*
++ *Click on Alias to turn it on
++ *Select "Alis to cloudfront distribution"*
++ *Choose the distribution you have created and click on create record.*
++ *Click on create record.*
+
+
 
 
 
