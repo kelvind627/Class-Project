@@ -92,7 +92,7 @@
 ![20230622_115418](https://github.com/kelvind627/Class-Project/assets/136044631/6b48895d-33bb-42bb-a933-5ff6f1f372da)
 
 9. **Creating your custom domain name**
-+ *Finally go back to route 53 and click on hosted zone,
++ *Finally go back to route 53 and click on hosted zone*
 + *Click on create record*
 + *On the record name, write in subdomain*
 + *At the record type, select "A-Route trafic to IPV4 address and some AWS resources"*
@@ -100,6 +100,10 @@
 + *Select "Alis to cloudfront distribution"*
 + *Choose the distribution you have created and click on create record.*
 + *Click on create record.*
+
+![20230622_095804](https://github.com/kelvind627/Class-Project/assets/136044631/deca58f7-c1d0-4b29-bf15-5f2629839ae3)
+
+**Notice that the website now is secured and has a custom name.**
 
 
 
