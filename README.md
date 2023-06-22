@@ -27,7 +27,7 @@
 + *Check the "host a static website" option*
 + *Save the index document type as "index.html"*
 + *Error document is optional, you can leave it or type "error.html" and save changes*
-![Web capture_21-6-2023_224044_s3 console aws amazon com](https://github.com/kelvind627/Class-Project/assets/136044631/888207c0-c99a-437d-861e-b697de0ec52d)
+
 
 
 
