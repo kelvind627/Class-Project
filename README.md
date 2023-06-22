@@ -27,6 +27,8 @@
 + *Check the "host a static website" option*
 + *Save the index document type as "index.html"*
 + *Error document is optional, you can leave it or type "error.html" and save changes*
+![image](https://github.com/kelvind627/Class-Project/assets/136044631/18765234-7d5d-4885-9cc8-ceeb1f2e73b8)
+
 
 
 
