@@ -55,8 +55,10 @@
 + *In Validation method, choose DNS as it's faster*
 + *Click on requet*
 + *Copy out CNAME Name and CNAME value*
-  
+![image](https://github.com/kelvind627/Class-Project/assets/136044631/fcf96bfb-6766-43ae-8d99-b2ff77d1e5c6)
 
+
+  
 
 
 
