@@ -70,7 +70,7 @@
 + *Click on create record*
 + *Select CNAME record*
 + *Paste the CNAME Name and record you copied respectively*
-+ *Copy and paste the Cvalue also respectively*
++ *Copy and paste the CNAME value respectively*
 + *Click on create record*
  
 
