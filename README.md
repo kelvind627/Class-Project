@@ -33,8 +33,17 @@
 + *Navigate to your bucket and click on it*
 + *Click on properties*
 +  *Scroll down and click on the website url*
+![20230622_002614](https://github.com/kelvind627/Class-Project/assets/136044631/d7b89e84-16b8-4a2a-bee3-60688280686d)
 
-
+5. **Next step is to configure your route 53**
++ *Navigate to your AWS search bar and type in route 53*
++ *Click on create hosted zone*
++ *Input your domain name*
++ *Description is optional*
++ *Make hosted zone public*
++ *Click on create hosted zone*
++ *Go to the website where you purchased your domain and carry out the necessary configuration for the name servers*
++ *click on update and let it to update*
 
 
 
