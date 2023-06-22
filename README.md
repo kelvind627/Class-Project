@@ -55,8 +55,19 @@
 + *In Validation method, choose DNS as it's faster*
 + *Click on requet*
 + *Copy out CNAME Name and CNAME value*
+  
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/fcf96bfb-6766-43ae-8d99-b2ff77d1e5c6)
 ![Web capture_22-6-2023_175_us-east-1 console aws amazon com](https://github.com/kelvind627/Class-Project/assets/136044631/82e951ea-f675-4eec-a75a-c0c93b96b53f)
+
+7. **Next! creating a record set**
++ *Navigate baack to Route 53 and click on hosted zone*
++ *Click on the domain name you are working on in the hosted zone*
++ *Click on create record*
++ *Select CNAME record*
++ *Paste the CNAME Name and record you copied respectively*
++ *Copy and paste the Cvalue also respectively*
++ *Click on create record*
+
 
 
 
