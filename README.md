@@ -27,6 +27,7 @@
 + *Check the "host a static website" option*
 + *Save the index document type as "index.html"*
 + *Error document is optional, you can leave it or type "error.html" and save changes*
+[S3 bucket creation policy](https://s3.console.aws.amazon.com/s3/buckets/medbillingconnection.com?region=us-east-1&tab=permissions)
 
 
 
