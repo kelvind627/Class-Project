@@ -44,6 +44,7 @@
 + *Click on create hosted zone*
 + *Go to the website where you purchased your domain and carry out the necessary configuration for the name servers*
 + *click on update and let it to update*
+![image](https://github.com/kelvind627/Class-Project/assets/136044631/851e83e3-f2f4-49b0-8800-dfe360fafcf8)
 
 
 
