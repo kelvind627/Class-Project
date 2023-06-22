@@ -22,17 +22,21 @@
   
 3. **To generate a policy, click on the bucket you just created to open it**
 + *For your policy, go to permision and generate bucket policy*
-+ *After generationg your policy, go to property*
++ *After generating your policy, go to property*
 + *Click on edit static website hosting and enable websit hosting*
 + *Check the "host a static website" option*
 + *Save the index document type as "index.html"*
 + *Error document is optional, you can leave it or type "error.html" and save changes*
+
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/18765234-7d5d-4885-9cc8-ceeb1f2e73b8)
 
 4. **To access your website page**
 + *Navigate to your bucket and click on it*
 + *Click on properties*
-+  *Scroll down and click on the website url*
++ *Scroll down and click on the website url*
+
+**Note that the website is not secured yet..** 
+
 ![20230622_002614](https://github.com/kelvind627/Class-Project/assets/136044631/d7b89e84-16b8-4a2a-bee3-60688280686d)
 
 5. **Next step is to configure your route 53**
@@ -44,6 +48,7 @@
 + *Click on create hosted zone*
 + *Go to the website where you purchased your domain and carry out the necessary configuration for the name servers*
 + *click on update and let it to update*
+  
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/851e83e3-f2f4-49b0-8800-dfe360fafcf8)
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/fa37fb49-a589-4c60-8321-e745a59bd75d)
 
@@ -67,6 +72,24 @@
 + *Paste the CNAME Name and record you copied respectively*
 + *Copy and paste the Cvalue also respectively*
 + *Click on create record*
+
+**Note that the website is now secured..** 
+
+![20230622_095017](https://github.com/kelvind627/Class-Project/assets/136044631/fa52d1a3-c0a9-4da7-a958-b257d67d06c0)
+![20230622_095804](https://github.com/kelvind627/Class-Project/assets/136044631/c114360f-b2d2-4b9e-869b-6cae2d4bf97a)
+
+8. **Next creating your cloudfront**
++ *Type cloudfront on your AWS search bar*
++ *Click on create cloudfront*
++ *Click on create distribution*
++ *Navigate back to your S3 bucket and copy the url and paste, removing the http//*
++ *check the "redirect http to https*
++ *Scroll down to "Alternate domain name" and paste your doman name*
++ *Choose the certificate you've created*
++ *Click create distribution and copy the url*
++ *Paste your url on your browser and test if it's working*
+
+
 
 
 
