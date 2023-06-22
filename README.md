@@ -3,7 +3,7 @@
 
 ### Please find outlined below the recommended steps for executing this project, accompanied by supplementary visual documentation for reference ###
 
-1. **Create an S3 bucket, the following steps will guide you**
+1. **First, create an S3 bucket, the following steps will guide you**
 + *Type S3 bucket on the search bar inside your AWS console*
 + *A page would pop up click on S3 bucket*
 + *click on create bucket*
@@ -72,10 +72,12 @@
 + *Paste the CNAME Name and record you copied respectively*
 + *Copy and paste the Cvalue also respectively*
 + *Click on create record*
-
-**Note that the website is now secured..** 
+ 
 
 ![20230622_095017](https://github.com/kelvind627/Class-Project/assets/136044631/fa52d1a3-c0a9-4da7-a958-b257d67d06c0)
+
+**Note that the website is now secured..**
+
 ![20230622_095804](https://github.com/kelvind627/Class-Project/assets/136044631/c114360f-b2d2-4b9e-869b-6cae2d4bf97a)
 
 8. **Next creating your cloudfront**
@@ -97,13 +99,13 @@
 + *On the record name, write in subdomain*
 + *At the record type, select "A-Route trafic to IPV4 address and some AWS resources"*
 + *Click on Alias to turn it on*
-+ *Select "Alis to cloudfront distribution"*
++ *Select "Alias to cloudfront distribution"*
 + *Choose the distribution you have created and click on create record.*
 + *Click on create record.*
 
 ![20230622_095804](https://github.com/kelvind627/Class-Project/assets/136044631/deca58f7-c1d0-4b29-bf15-5f2629839ae3)
 
-**Notice that the website now is secured and has a custom name.**
+**Notice that the website now is secured and has a custom domain name.**
 
 
 
