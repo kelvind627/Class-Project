@@ -45,6 +45,18 @@
 + *Go to the website where you purchased your domain and carry out the necessary configuration for the name servers*
 + *click on update and let it to update*
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/851e83e3-f2f4-49b0-8800-dfe360fafcf8)
+![image](https://github.com/kelvind627/Class-Project/assets/136044631/fa37fb49-a589-4c60-8321-e745a59bd75d)
+
+6. **Next is to create a certificate manager**
++ *Type in certificate manager on your AWS search bar*
++ *Navigate to certificate manager and click on request*
++ *Click on "request a public certificate" and click next*
++ *Input your domain name*
++ *In Validation method, choose DNS as it's faster*
++ *Click on requet*
++ *Copy out CNAME Name and CNAME value*
+  
+
 
 
 
