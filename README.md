@@ -29,6 +29,12 @@
 + *Error document is optional, you can leave it or type "error.html" and save changes*
 ![image](https://github.com/kelvind627/Class-Project/assets/136044631/18765234-7d5d-4885-9cc8-ceeb1f2e73b8)
 
+4. **To access your website page**
++ *Navigate to your bucket and click on it*
++ *Click on properties*
++  *Scroll down and click on the website url*
+
+
 
 
 
